@@ -1,6 +1,6 @@
-# LLM Finetuning Dataset - Question Answering
+# LLM Fine-Tuning Dataset - Question Answering
 
-The dataset contains over **4 million+ logs** written in **32 languages** and is tailored for LLM training. It includes **log and response pairs** from **3 models**, and is designed for language models and instruction finetuning to achieve improved performance in various NLP tasks - **[Get the data](https://unidata.pro/datasets/llm-text-generation/?utm_source=github&utm_medium=cpc&utm_campaign=llm)**
+The dataset contains over **4 million+ logs** written in **32 languages** and is tailored for LLM training. It includes **log and response pairs** from **3 models**, and is designed for language models and instruction fine-tuning to achieve improved performance in various NLP tasks - **[Get the data](https://unidata.pro/datasets/llm-text-generation/?utm_source=github&utm_medium=cpc&utm_campaign=llm)**
 
 ## Models used for text generation:
 - **GPT-3.5**
