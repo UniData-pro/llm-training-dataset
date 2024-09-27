@@ -14,9 +14,7 @@ The dataset contains over **4 million+ logs** written in **32 languages** and is
 
 The dataset features a comprehensive training corpus with **prompts and answers**, suitable for generating text, question answering, and text classification. It enhances pre-trained LLMs, making it valuable for specific tasks, specific needs, and various generation tasks in the realm of language processing 
 
-
-
-# 💵 Buy the Dataset: This is a limited preview of the data. To access the full dataset, please contact us at [https://unidata.pro](https://unidata.pro/datasets/llm-text-generation/?utm_source=github&utm_medium=cpc&utm_campaign=llm) to discuss your requirements and pricing options.
+## 💵 Buy the Dataset: This is a limited preview of the data. To access the full dataset, please contact us at [https://unidata.pro](https://unidata.pro/datasets/llm-text-generation/?utm_source=github&utm_medium=cpc&utm_campaign=llm) to discuss your requirements and pricing options.
 
 ## Content
 Dataset has the following columns:
@@ -28,4 +26,4 @@ Dataset has the following columns:
 
 The text corpus supports instruction tuning and supervised fine-tuning for larger language models, enhancing text generation and human language understanding. With a focus on generating human-like content, it is useful for evaluating LLMs, improving generation capabilities, and performing well in classification tasks. This dataset also assists in mitigating biases, supporting longer texts, and optimizing LLM architectures for more effective language processing and language understanding.
 
-# 🌐 [UniData](https://unidata.pro/datasets/llm-text-generation/?utm_source=github&utm_medium=cpc&utm_campaign=llm) provides high-quality datasets, content moderation, data collection and annotation for your AI/ML projects 
+## 🌐 [UniData](https://unidata.pro/datasets/llm-text-generation/?utm_source=github&utm_medium=cpc&utm_campaign=llm) provides high-quality datasets, content moderation, data collection and annotation for your AI/ML projects 
